@@ -9,7 +9,7 @@ In this project, we create dashboard using Tableau and Figma to visualize global
 
 <h2>Datasource</h2>
 
-Kaggle
+Make Over Monday Tableau
 
 <h2>Tableau Link</h2>
 
